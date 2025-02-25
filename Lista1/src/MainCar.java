@@ -1,8 +1,9 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 import java.util.*;
+import exe0.Car;
 
-public class Main {
+public class MainCar {
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
         //criando objetos na classe
